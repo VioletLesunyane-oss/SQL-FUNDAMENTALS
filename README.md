@@ -30,8 +30,8 @@ City
 Task Structure
 The assignment consisted of 10 structured questions divided into two sections:
 
-Selecting & Sorting Data – focusing on retrieving, ordering, and limiting results
-Filtering with WHERE Clause – focusing on narrowing down results using conditions
+Selecting & Sorting Data, focusing on retrieving, ordering, and limiting results
+Filtering with WHERE Clause, focusing on narrowing down results using conditions
 
 For each question, the learner was required to:
 
